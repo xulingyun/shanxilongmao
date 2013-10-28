@@ -1,0 +1,12 @@
+port: 10001
+MIDlet-1: MIDlet-1,,totoro.TotoroMIDlet
+token: iptv
+MIDlet-Jar-URL: shanxi-totoro.jar
+userid: CP900801
+MicroEdition-Configuration: CLDC-1.0
+ip: 125.76.229.154
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: MIDlet Suite Vendor
+MIDlet-Name: shanxi-totoro MIDlet Suite
+MicroEdition-Profile: MIDP-2.1
+gameid: 900801

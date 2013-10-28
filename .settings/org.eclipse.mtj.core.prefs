@@ -1,0 +1,7 @@
+#Thu Aug 29 10:28:06 CST 2013
+eclipse.preferences.version=1
+obfuscate_use_project=true
+preverify_config_value=CLDC-1.0
+preverify_type=default_preverifier
+proguard_keep=public class * extends javax.microedition.midlet.MIDlet|
+proguard_use_specified=true
